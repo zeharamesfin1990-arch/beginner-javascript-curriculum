@@ -24,5 +24,6 @@ console.log ("last_name")
 // Create 3 variables: your first name, your age, and your favorite color.
 // Print them on the same line in a full sentence.
 let first_name = "ayyub";
-let 
-
+let age = "12";
+let color = "blue";
+console.log 
