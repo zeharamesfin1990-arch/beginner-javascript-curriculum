@@ -26,4 +26,3 @@ console.log ("last_name")
 let first_name = "ayyub";
 let age = "12";
 let color = "blue";
-console.log 
