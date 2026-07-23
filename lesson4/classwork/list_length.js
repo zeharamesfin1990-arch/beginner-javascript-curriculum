@@ -5,3 +5,6 @@ console.log ("number of fruits:", length );
 
 let last_fruits = fruits[length -1];
 console.log ("last_fruits:", last_fruits);
+
+let length = operators.length;
+console.log ("number of operators:", length );
